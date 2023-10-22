@@ -1,5 +1,5 @@
 # Kenya Economic Survey Report 2023
-## Kenyan Economic Indicators reported by KNBS in 2023   
+## Kenyan Economic Indicators reported by KNBS in 14th August 2023   
 
 This repository, "Kenya Economic Survey Report 2023" houses a comprehensive analysis of Kenya's economic landscape for the years 2018 to 2022. It contains data tables in Excel format, showcasing specific economic indicators, all denominated in Kenyan Shillings (KSh) in millions. Please note that the figures for 2022 are provisional.
 
